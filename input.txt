@@ -1,1 +1,4 @@
-The switch statement, to be discussed in Chapter 3, provides another way to write a multi-way branch that is particularly suitable when the condition is whether some integer or character expression matches one of a set of constants. For contrast, we will present a switch version of this program in Section 3.4.
+Ah Love! could you and I with Fate conspire
+To grasp this sorry Scheme of Things entire
+Would not we shatter it to bits -- and then
+Re-mould it nearer to the Heart's Desire!
